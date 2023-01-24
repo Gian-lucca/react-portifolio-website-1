@@ -36,14 +36,13 @@ const About = () => {
               <article className='about__card'>
                 <VscFolderLibrary className='about__icon'/>
                 <h5>Projetos</h5>
-                <small>Mais de 80 Completos</small>
+                <small>Mais de 150 Completos</small>
               </article>
             </div>
 
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore vel at dicta sit 
-              beatae molestias adipisci quam quibusdam exercitationem omnis! Quam consectetur 
-              rem asperiores laudantium doloribus voluptas aspernatur aliquid itaque.
+              Gianlucca Augusto é um Desenvolvedor Web que oferece serviços de desenvolvimento, correção, otimização e manutenção de sites. 
+              Acredito que com as ferramentas confiáveis e inovadoras, eu irei conseguir melhorar os seus processos e focar principalmente em suas estratégias de negócio.
             </p>
 
             <a href="#contact" className='btn btn-primary'>Contato</a>
